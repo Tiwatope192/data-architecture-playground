@@ -1,5 +1,5 @@
 # data-architecture-playground
-This is my braiinstorming space to explore business problems and designing data architectures and pipelines to solve them.
+This is my brainstorming space to explore business problems and designing data architectures and pipelines to solve them.
 
 Business Case study 1 - Palmpay
 Palmpay Data Architecture Evolution: AS-IS → TO-BE Overview
