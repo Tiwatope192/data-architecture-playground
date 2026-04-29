@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-=======
+
 # data-architecture-playground
 This is my brainstorming space to explore business problems and designing data architectures and pipelines to solve them.
 
